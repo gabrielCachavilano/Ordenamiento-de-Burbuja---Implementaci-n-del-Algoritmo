@@ -1,7 +1,9 @@
 
 # Introducción:
-Supongamos que tenemos la siguiente lista:
+[Ordenamiento de Burbuja en Código Comentado](http://codigoscomentado.blogspot.com/2018/06/ordenamiento-de-burbuja-algoritmos.html)
 
+Supongamos que tenemos la siguiente lista:
+j
 A = {55, 86, 32, 12, 82, 43}
 
 Aquí tenemos una simple lista conformada por 6 datos, supongamos que necesitas ordenar esta lista, ¿Como lo harías?, relativamente es fácil, podrías usar la función sort, que se encarga de ordenar listas, pero en ocasiones, como programadores, debemos resolver estos tipos de problemas de una forma más profesional, ¿Como?, creando nuestros propios procedimiento, sí, me refiero a los maravillosos Algoritmos, en este caso, Algoritmos de Ordenamiento.
